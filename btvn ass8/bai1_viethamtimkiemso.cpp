@@ -1,6 +1,6 @@
 #include <stdio.h>
 bool timkiemso (int a[],unsigned int x,int n){
-	for (int i=0; i<n; i++){
+	for (int i=0; i<x; i++){
 	 	if (n==a[i]){
 			return true;
 		}	
